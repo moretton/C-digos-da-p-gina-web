@@ -23,5 +23,5 @@ peso. são alimentados com razão especifica, diversas aplicações de hormônio
 artificial e clonagem.
 -oecuária extensiva: nesse caso, atividade da pecuária está pautada na utilização de métodos com poucos 
 recursos tecnológico e por isso, apresenta baixa produtividade. Assim, o gado é criado solto em grande 
-extensões de terras, se alimentam de pastagens e não possuem um acompanhamento veterinário.<p>  
+extensões de terras, se alimentam de pastagens e não possuem um acompanhamento veterinário.<p>.  
 
