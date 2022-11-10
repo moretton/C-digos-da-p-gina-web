@@ -1,4 +1,8 @@
+<!DOCTYPE html>
+<html>
+         <head>
 <title> pecúaria </title>
+                  <body>
 
 Pecuária é a atividade produtiva de criação de animais que tem como propósito a produção de alimentos como carnes, ovos e leite ou de matérias-primas a exemplo de peles couros e lãs destinadas a confecção de outros artigos. A Pecuária pode ser de corte, leiteira ou de lã, é praticada nas modalidades extensiva ou intensiva. Não obstante ela possuí grande importância na economia e para subsistência, pode causar alguns problemas ambientais, como o desmatamento, a compactação do solo e a emissão de gases poluentes na atmosfera "finalidade produtiva, em:de corte (produção de carnes), leiteira (produção de leite) e lã".
 
@@ -23,3 +27,6 @@ Marabá PA – 1.070.400
 <img scr: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgs.cursosdeformacao.com.br%2Fimg_cursos%2Fprod%2Fimg_1230x644%2Fagricultura%2Fapicultura.jpg&imgrefurl=https%3A%2F%2Fwww.cursosdeformacao.com.br%2Fcursos%2Fagricultura%2Fapicultura&tbnid=kCVziClxO-rwNM&vet=1&docid=-df82UvIkd3eGM&w=1230&h=644&hl=pt-BR&source=sh%2Fx%2Fim"/>
 <img scr: "https://images.app.goo.gl/rwtQAD6VdZ2Uz4wd8"/>
 <img scr: "https://images.app.goo.gl/CbVcWSXVedBDUfG29"/>
+                           </html>
+         </head>
+         
